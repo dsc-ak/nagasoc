@@ -1,0 +1,10 @@
+Package: nagasoc
+Type: Package
+Title: An interactive shiny dashboard for analysis of sociological data on Nagaland, India.
+Version: 0.1.0
+Author: Andreas Küchle
+Maintainer: The package maintainer <mail@andreaskuechle.de>
+Description: This package is intended to make the data collected during my PhD research on Nagaland accessible to a wider audience in a reproducible manner. It aims to provide funktionality for univariate, bivariate as well as multivariate analysis along with intuitive visualisation.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
